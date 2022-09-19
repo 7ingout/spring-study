@@ -2,8 +2,8 @@ package hello.hellospring.domain;
 
 public class Member {
 
-    private Long id;
-    private String name;
+    private Long id;  // ID 식별자
+    private String name;  // 이름
 
     public Long getId() {
         return id;
